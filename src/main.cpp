@@ -1,6 +1,5 @@
 #include <iostream>
 #include "Forca.hpp"
-#include "validacao_arquivos/ValidaScore.hpp"
 
 using namespace std;
 int main(int argc, char *argv[]){
